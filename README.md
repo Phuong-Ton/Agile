@@ -1,2 +1,2 @@
 # Agile
-Agile methology
+Agile methodology
